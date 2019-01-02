@@ -9,3 +9,6 @@ Please read through this entire doc first before performing any of the tasks. Th
 * [Dev Resources](/dev-resources.md)
 * [Perks & Benefits](/perks-and-benefits.md)
 * [Where We Work](/where-we-work.md)
+* [Projects History](/projects-history.md)
+* [Values](https://blog.bearandgiraffe.com/the-journey-13be5e589e2)
+* [Career](/career.md)
