@@ -7,3 +7,4 @@ Please read through this entire doc first before performing any of the tasks. Th
 ## Sections
 * [Getting Started](/getting-started.md)
 * [Dev Resources](/dev-resources.md)
+* [Perks & Benefits](/perks-and-benefits.md)
